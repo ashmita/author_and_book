@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1427084869 source:e:\ashmita_semesterii\data structures programs\authorbook\main.cpp
+	<iostream>
+	"Book.h"
+
+1427085091 e:\ashmita_semesterii\data structures programs\authorbook\author.h
+	<iostream>
+
+1427085091 e:\ashmita_semesterii\data structures programs\authorbook\book.h
+	<iostream>
+	"Author.h"
+
+1427084625 source:e:\ashmita_semesterii\data structures programs\authorbook\author.cpp
+	<iostream>
+	"Author.h"
+
+1426758125 source:e:\ashmita_semesterii\data structures programs\authorbook\book.cpp
+	<iostream>
+	"Book.h"
+
